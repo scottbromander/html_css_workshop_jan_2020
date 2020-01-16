@@ -1,0 +1,44 @@
+body {
+  background-color: #a387c9;
+} 
+
+h1 {
+  color: white;
+  font-family: Arial, Helvetica, Sans-serif;
+  font-size: 42px;
+}
+
+p {
+  color: white;
+}
+
+img {
+  width: 50%;
+}
+
+div {
+  border: 1px solid black;
+  margin: 25px;
+  padding: 25px;
+  width: 25%;
+  display: inline-block;
+  background-color: #e0cb2b;
+  
+}
+
+div:hover {
+  background-color: #ebe196;
+}
+
+#kitty-cat {
+  background: black;
+}
+
+#kitty-cat:hover {
+  background-color: #ebe196;
+}
+
+.something {
+  color: white;
+  font-family: Arial, Helvetica, Sans-serif;
+}
